@@ -1,0 +1,26 @@
+{
+  "name": "ngfirebaseauth",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lalocespedes/ngfirebaseauth.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lalocespedes/ngfirebaseauth/issues"
+  },
+  "homepage": "https://github.com/lalocespedes/ngfirebaseauth#readme",
+  "devDependencies": {
+    "lite-server": "^2.3.0"
+  },
+  "dependencies": {
+    "dotenv": "^4.0.0"
+  }
+}

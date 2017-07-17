@@ -1,0 +1,23 @@
+{
+  "name": "ngfirebaseauth",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Eduardo Cespedes <lalocespedes@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/lalocespedes/ngfirebaseauth",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "angular": "1.4.8",
+    "angular-ui-router": "0.4.2",
+    "firebase": "^3.9.0",
+    "angularfire": "^2.3.0"
+  }
+}
